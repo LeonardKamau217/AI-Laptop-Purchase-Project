@@ -4,11 +4,11 @@
 
 This project documents a practical laptop purchasing exercise supported by an AI assistant. It examines how AI can help identify buyer requirements, research available laptops, compare alternatives, assess purchasing risks, and develop a professional recommendation.
 
-The project also evaluates the quality of AI-generated responses through human annotation and feedback using Label Studio.
+The project also evaluates the quality of AI-generated responses through human annotation and feedback.
 
 ### Project Overview Screenshot
 
-![Project Overview](screenshots/Project-overview.png)
+![Task 1 Project Overview](screenshots/Task-1-project-overview.png)
 
 ## Project Objectives
 
@@ -18,12 +18,6 @@ The project also evaluates the quality of AI-generated responses through human a
 - Compare AI-generated predictions with human evaluations.
 - Document evaluation results and supporting evidence.
 
-## Tools Used
-
-- **ChatGPT:** AI response generation and assistance.
-- **Label Studio:** Task annotation and human evaluation.
-- **GitHub:** Project documentation and evidence storage.
-
 ## Task 1: Buyer Needs Assessment
 
 ### Objective
@@ -32,19 +26,12 @@ Establish the buyer's programming and computing requirements before recommending
 
 ### Prompt and AI Response
 
-![Task 1 Prompt and AI Response](screenshots/Task-1/Task-1-prompt-and-ai-response.png)
+![Task 1 Prompt and AI Response](screenshots/Task-1-prompt-and-ai-response.png)
 
 ### Human Evaluation Feedback
 
-![Task 1 Human Evaluation Feedback](screenshots/Task-1/Task-1-evaluation-feedback.png)
+![Task 1 Human Evaluation Feedback](screenshots/Task-1-evaluation-feedback.png)
 
-### Human Evaluation Summary
-
-| Evaluation Criterion | Human Assessment |
-|---|---|
-| Relevance | Relevant |
-| Accuracy | Accurate |
-| Helpfulness | Helpful |
 
 The response correctly identified the eight areas that needed investigation, including programming languages, application development, IDE usage, virtualisation, software compilation, AI and machine learning, multitasking, and anticipated future workloads.
 
@@ -52,7 +39,7 @@ The response correctly identified the eight areas that needed investigation, inc
 
 ### Task 1 Outcome
 
-The human evaluation confirmed that the AI response provided a relevant and useful starting point for understanding the buyer's needs. The next stage of the project can use this information to guide laptop selection.
+The human evaluation confirmed that the AI response provided a relevant and useful starting point for understanding the buyer's needs. The information collected would guide the subsequent laptop selection process.
 
 ---
 
