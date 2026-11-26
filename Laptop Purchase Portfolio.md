@@ -1065,3 +1065,71 @@ The response was evaluated as accurate, relevant and helpful, with appropriate c
 ![Task 14 Human Evaluation Feedback](screenshots/Task-14/Task-14-evaluation-feedback.png)
 
 
+
+# Task 15: Warranties and Return Policies
+
+## 1. Task Prompt
+
+The AI was asked to compare the warranty periods, battery coverage and return policies offered by Jumia Kenya and Kilimall Kenya for the two shortlisted laptops. The objective was to determine which laptop offered better buyer protection.
+
+![Task 15 Prompt](screenshots/Task-15/Task-15-prompt.png)
+
+## 2. AI-Generated Response
+
+### HP EliteBook 830 G8 – Jumia Kenya
+
+- **Seller warranty:** 6 months.
+- **Hardware coverage:** Major components, including the motherboard, RAM and SSD.
+- **Battery coverage:** 1 month.
+- **Return window:** 7 days from delivery for defective products or products significantly different from the advertised specifications.
+- **Remedy:** Replacement or refund after confirmation of the defect or discrepancy.
+
+![HP Warranty Details](screenshots/Task-15/Task-15-ai-response-1.png)
+
+### Lenovo ThinkPad X13 Gen 2 – Kilimall Kenya
+
+- **Seller warranty:** 3 months.
+- **Hardware coverage:** Hardware defects.
+- **Battery coverage:** 14 days.
+- **Return window:** 7 days from delivery for defective products or products that do not match the advertised description.
+- **Remedy:** Replacement or refund, subject to inspection and approval.
+
+![Lenovo Warranty Details](screenshots/Task-15/Task-15-ai-response-2.png)
+
+## 3. Comparative Assessment
+
+The AI identified that the HP EliteBook 830 G8 offers more favourable seller-provided warranty terms:
+
+- Its six-month hardware warranty is twice as long as Lenovo's three-month warranty.
+- Its one-month battery coverage is longer than Lenovo's 14-day coverage.
+- Both sellers provide a seven-day return window, subject to their stated conditions and inspection procedures.
+
+The AI also advised requesting written confirmation of warranty coverage, exclusions, repair procedures, return conditions and seller identity before making payment. It correctly distinguished seller warranties from manufacturer warranties.
+
+![Comparative Assessment](screenshots/Task-15/Task-15-ai-response-3.png)
+
+## 4. AI's Final Assessment
+
+Based on the information supplied by the sellers, the AI recommended the **HP EliteBook 830 G8 from Jumia Kenya** because it offers longer hardware warranty coverage and longer battery protection.
+
+The recommendation was conditional on the seller confirming the stated terms in writing before payment. The AI also clarified that the seller-provided information had not been independently verified.
+
+![AI Final Assessment](screenshots/Task-15/Task-15-ai-response-4.png)
+
+## 5. Human Evaluation and Feedback
+
+The AI response was evaluated as **Relevant, Accurate and Helpful**.
+
+The evaluation confirmed that the AI:
+
+- Correctly compared the six-month HP warranty with Lenovo's three-month warranty.
+- Identified the difference in battery coverage: one month for HP and 14 days for Lenovo.
+- Recognised that both sellers offered a seven-day return period.
+- Provided practical buyer-protection advice.
+- Distinguished seller warranties from manufacturer warranties.
+- Reached a conclusion supported by the information supplied.
+
+An important limitation is that the warranty information came from seller-provided responses and was not independently verified. Written confirmation should therefore be obtained before purchase.
+
+![Task 15 Evaluation Feedback](screenshots/Task-15/Task-15-evaluation-feedback.png)
+
