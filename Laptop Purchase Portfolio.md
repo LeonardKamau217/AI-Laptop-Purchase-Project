@@ -158,3 +158,111 @@ The AI successfully converted the buyer's computing requirements into a practica
 The human evaluation confirmed that the response addressed the major workload requirements while recognising the limitations of budget laptops for intensive local AI model training.
 
 These specifications provide a technical foundation for the next stage of the laptop purchasing process: researching reputable laptop manufacturers and brands.
+
+
+
+# AI Laptop Purchase Project
+
+## Project Overview
+
+This project documents a practical laptop purchasing exercise supported by an AI assistant. It examines how AI can help identify buyer requirements, research available laptops, compare alternatives, assess purchasing risks, and develop a professional recommendation.
+
+The project also evaluates AI-generated responses through human annotation, critical review, and feedback.
+
+### Project Overview Screenshot
+
+![Project Overview](screenshots/Task-1/Task-1-project-overview.png)
+
+## Project Objectives
+
+- Evaluate AI-generated responses in a realistic laptop purchasing scenario.
+- Assess response relevance, accuracy, and helpfulness.
+- Identify missing information, errors, and weaknesses in AI responses.
+- Compare AI-generated outputs with human evaluations.
+- Document evaluation results and supporting evidence.
+
+---
+
+# Task 3: Consider Reputable Laptop Brands
+
+## 1. Task Objective
+
+Identify reputable laptop manufacturers whose products are suitable for the buyer's programming and computing requirements established in the earlier assessment.
+
+The focus is on manufacturers with reliable business-class laptop ranges, good build quality, serviceability, capable processors, and potential for future upgrades.
+
+## 2. Task Prompt
+
+The AI was instructed to use the buyer's original programming-laptop requirements already provided in Task 2, without creating or repeating a new buyer request.
+
+![Task 3 Prompt](screenshots/Task-3/Task-3-prompt.png)
+
+## 3. AI-Generated Response
+
+The AI recommended three reputable laptop manufacturers:
+
+### 1. Lenovo
+
+The AI recommended Lenovo, particularly its ThinkPad range, because of:
+
+- Durable construction.
+- Comfortable keyboards.
+- Good serviceability.
+- Potential RAM and storage upgradeability, depending on the model.
+
+### 2. Dell
+
+The AI recommended Dell, particularly its Latitude range, because of:
+
+- Solid construction.
+- Practical connectivity.
+- Good serviceability.
+- Configurations with capable processors and upgradeable storage.
+
+### 3. HP
+
+The AI recommended HP, particularly its EliteBook range, because of:
+
+- Good build quality.
+- Security features.
+- Serviceability.
+- Capable processors.
+- Options for memory and storage upgrades, depending on the model.
+
+### AI Response Screenshot
+
+![Task 3 AI Response](screenshots/Task-3/Task-3-ai-response.png)
+
+## 4. Human Evaluation Feedback
+
+The human evaluation confirmed that the AI correctly recommended Lenovo, Dell, and HP as reputable manufacturers of programming laptops.
+
+The evaluation recognised that the response:
+
+- Provided relevant reasons for considering each manufacturer.
+- Addressed build quality and serviceability.
+- Considered processor capabilities and upgradeability.
+- Correctly explained that performance depends on the specific laptop model and configuration, not the brand name alone.
+
+### Human Evaluation Screenshot
+
+![Task 3 Human Evaluation Feedback](screenshots/Task-3/Task-3-evaluation-feedback.png)
+
+## 5. Task 3 Outcome
+
+The AI successfully identified three reputable laptop manufacturers and provided relevant reasons for considering their business-class laptop ranges.
+
+The human evaluation confirmed that the recommendations were appropriate and that the response correctly distinguished between brand reputation and the specifications of individual laptop models.
+
+These three manufacturers provide a shortlist of brands to consider when researching reputable online laptop marketplaces in Kenya and identifying suitable laptop options.
+
+---
+
+## Skills Demonstrated
+
+- AI response evaluation
+- Human annotation and feedback
+- Brand research and analysis
+- Critical assessment of AI recommendations
+- Identification of relevant product characteristics
+- Evidence-based evaluation
