@@ -275,7 +275,7 @@ Evaluate AI recommendations for reputable online shops in Kenya where the buyer 
 
 ## 1. Prompt
 
-![Task 4 Prompt](Task-4/Task-4-prompt.png)
+![Task 4 Prompt](Task-4-prompt.png)
 
 ## 2. AI-Generated Response
 
@@ -320,9 +320,9 @@ The AI advised checking the following before placing an order:
 
 It also emphasized that buyers should not make purchasing decisions based on price alone.
 
-![Task 4 AI Response 1](Task-4/Task-4-ai-response-1.png)
+![Task 4 AI Response 1](Task-4-ai-response-1.png)
 
-![Task 4 AI Response 2](Task-4/Task-4-ai-response-2.png)
+![Task 4 AI Response 2](Task-4-ai-response-2.png)
 
 ## 3. Human Evaluation and Feedback
 
@@ -339,7 +339,7 @@ The AI response was evaluated for relevance, accuracy and helpfulness.
 
 The response could be more specific by identifying manufacturer-authorised dealers or official brand stores and explaining how buyers can verify them.
 
-![Task 4 Human Evaluation Feedback](Task-4/Task-4-evaluation-feedback.png)
+![Task 4 Human Evaluation Feedback](Task-4-evaluation-feedback.png)
 
 ## 4. Task Outcome
 
