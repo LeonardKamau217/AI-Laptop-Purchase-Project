@@ -689,3 +689,69 @@ The AI also retained both shortlisted laptops for further evaluation rather than
 
 ![Task 9 Evaluation Feedback](screenshots/Task-9/Task-9-evaluation-feedback.png)
 
+
+
+# Task 10: Battery Health Report Evaluation
+
+## 1. Prompt
+
+After receiving battery reports from the sellers, the AI was asked to evaluate the battery condition of the two shortlisted laptops. The comparison covered design capacity, full charge capacity, battery health, battery wear and charge cycle count.
+
+The objective was to identify which laptop had the healthier battery and provide a recommendation supported by the reported figures.
+
+![Task 10 Prompt](screenshots/Task-10/Task-10-prompt.png)
+
+## 2. AI-Generated Response
+
+### Battery Specifications Comparison
+
+The AI compared the battery reports for:
+
+1. HP EliteBook 830 G8 – Jumia Kenya
+2. Lenovo ThinkPad X13 Gen 2 – Kilimall Kenya
+
+| Battery Specification | HP EliteBook 830 G8 | Lenovo ThinkPad X13 Gen 2 |
+|---|---:|---:|
+| Design Capacity | 53,010 mWh | 54,700 mWh |
+| Full Charge Capacity | 46,649 mWh | 44,854 mWh |
+| Battery Health | 88% | 82% |
+| Battery Wear | 12% | 18% |
+| Charge Cycle Count | 240 | 360 |
+
+![AI Battery Specifications Comparison](screenshots/Task-10/Task-10-ai-response-1.png)
+
+### Analysis of Battery Results
+
+The AI identified several differences:
+
+- **Battery health:** The HP retained 88% of its original capacity, compared with 82% for the Lenovo.
+- **Battery wear:** The HP had 12% wear, while the Lenovo had 18%.
+- **Full charge capacity:** The HP could hold 46,649 mWh, compared with 44,854 mWh for the Lenovo.
+- **Charge cycles:** The HP had 240 cycles, compared with 360 for the Lenovo.
+
+These figures indicated that the HP battery had retained more of its original capacity and experienced less deterioration.
+
+![AI Analysis of Battery Results](screenshots/Task-10/Task-10-ai-response-2.png)
+
+### Final Recommendation
+
+The AI recommended the HP EliteBook 830 G8 because its battery had better reported health, lower wear, higher full charge capacity and fewer recorded charge cycles.
+
+The Lenovo ThinkPad X13 Gen 2 remained a viable option, but its battery showed greater wear and lower remaining capacity.
+
+The AI also advised considering actual battery runtime, battery age, replacement cost and warranty before making the final purchase decision.
+
+![AI Final Recommendation](screenshots/Task-10/Task-10-ai-response-3.png)
+
+## 3. Human Evaluation and Feedback
+
+The AI correctly interpreted and compared the battery reports submitted by the sellers. It accurately assessed both laptops using design capacity, full charge capacity, battery health, battery wear and charge cycle count.
+
+It correctly established that the HP had better battery condition, with 88% health, 12% wear and 240 charge cycles, compared with the Lenovo's 82% health, 18% wear and 360 charge cycles.
+
+The evaluation also confirmed that the AI maintained the updated shortlist of only two laptops and did not reintroduce previously eliminated options.
+
+**Area for improvement:** Actual battery runtime and battery age would provide additional information before making the final purchase decision.
+
+![Task 10 Evaluation Feedback](screenshots/Task-10/Task-10-evaluation-feedback.png)
+
