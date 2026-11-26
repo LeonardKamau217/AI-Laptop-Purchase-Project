@@ -837,3 +837,111 @@ The response appropriately discussed authenticity, warranty coverage, technical 
 ![Task 11 Evaluation Feedback](screenshots/Task-11/Task-11-evaluation-feedback.png)
 
 
+
+
+# Task 13: Reading Reliable Reviews
+
+## 1. Task Objective
+
+Evaluate independent reviews and user feedback for the two shortlisted laptops: **HP EliteBook 830 G8** and **Lenovo ThinkPad X13 Gen 2**.
+
+The assessment considers their suitability for programming, software compilation, large file transfers, multitasking, large datasets, Docker containers, virtual machines, sustained workloads and AI/ML activities.
+
+The aim is to distinguish controlled benchmark results from individual user experiences, assess the reliability and limitations of the available evidence, and determine which laptop appears more suitable for the buyer's requirements.
+
+## 2. Prompt
+
+![Task 13 Prompt](screenshots/Task-13/Task-13-prompt.png)
+
+## 3. AI-Generated Response
+
+### HP EliteBook 830 G8
+
+The AI reviewed Notebookcheck benchmark results for an HP EliteBook 830 G8 configuration featuring an Intel Core i7-1165G7 processor and NVMe SSD.
+
+The reported sequential SSD performance was approximately:
+
+- Read speed: 2,456 MB/s
+- Write speed: 2,032 MB/s
+
+The review also provided evidence about programming responsiveness, application performance and everyday multitasking.
+
+![HP Review Analysis](screenshots/Task-13/Task-13-ai-response-1.png)
+
+![HP SSD Performance](screenshots/Task-13/Task-13-ai-response-2.png)
+
+### Lenovo ThinkPad X13 Gen 2
+
+The AI examined Laptop Mag's file-transfer test, in which the reviewed ThinkPad X13 Gen 2 configuration copied 25GB of multimedia files in approximately 1 minute and 26 seconds, achieving around 310.5 MB/s.
+
+The response recognised that this was useful benchmark evidence but cautioned against directly comparing it with the HP's sequential SSD results because the tests used different methods and workloads.
+
+![Lenovo Review Analysis](screenshots/Task-13/Task-13-ai-response-3.png)
+
+### Sustained Workloads and Cooling
+
+The AI considered thermal behaviour under sustained CPU and GPU workloads. It identified potential performance and cooling limitations during prolonged demanding tasks, including extended compilations, multiple Docker containers and data-processing workloads.
+
+![Sustained Workloads and Cooling](screenshots/Task-13/Task-13-ai-reponse-4.png)
+
+### Comparative Findings
+
+The AI compared the available evidence across several areas:
+
+- **Large file transfers:** Both laptops demonstrated storage performance, but the different testing methods prevented a direct numerical comparison.
+- **Programming and compilation:** Both appeared suitable for ordinary programming, with different types of benchmark and user-feedback evidence.
+- **IDEs and multitasking:** Both could support development environments and everyday multitasking, depending on processor configuration, RAM and storage.
+- **Large datasets:** Storage speed helps with loading and saving data, while RAM and processor performance also affect handling larger datasets.
+
+![Comparative Findings](screenshots/Task-13/Task-13-ai-response-5.png)
+
+### Docker, Virtual Machines and AI/ML
+
+The AI explained that both laptops could support development workloads involving Docker and virtual machines, but running several containers or larger virtual machines simultaneously could place considerable demands on available RAM and CPU resources.
+
+It also cautioned that integrated graphics should not be confused with a dedicated high-performance GPU. Both systems may support programming, data preparation and lightweight machine-learning experiments, but should not automatically be considered suitable for demanding local model training.
+
+![Workload and AI/ML Analysis](screenshots/Task-13/Task-13-ai-response-6.png)
+
+### Reliability and Limitations of Review Evidence
+
+The AI distinguished between controlled testing from Notebookcheck and Laptop Mag and individual experiences shared on Reddit.
+
+It recognised that:
+
+- Benchmark results apply to the specific configurations tested.
+- Individual user reports provide useful practical experiences but are not controlled benchmarks.
+- Different storage tests should not be treated as directly comparable.
+- Actual processor, SSD, RAM and graphics configurations must be verified before relying on review findings.
+
+![Review Evidence Reliability](screenshots/Task-13/Task-13-ai-response-7.png)
+
+### Final Assessment and Recommendation
+
+The AI concluded that both laptops could support general programming, development tools, everyday multitasking and moderate data-handling activities.
+
+The HP EliteBook 830 G8 appeared attractive because of its reviewed SSD performance and RAM upgrade potential. The Lenovo ThinkPad X13 Gen 2 remained a viable option based on its file-transfer benchmark and positive individual programming feedback.
+
+However, the available evidence was not sufficient to declare either laptop the clear overall performance winner.
+
+![Final Assessment and Recommendation](screenshots/Task-13/Task-13-ai-response-8.png)
+
+## 4. Human Evaluation of the AI Response
+
+The evaluation found that the AI correctly understood the task and compared the available evidence across the two shortlisted laptops.
+
+**Strengths identified:**
+
+- Distinguished controlled benchmark results from individual user experiences.
+- Correctly recognised that the HP sequential SSD benchmark and Lenovo file-copy test used different methods.
+- Discussed processor performance, RAM capacity, storage and thermal limitations.
+- Considered programming, multitasking, Docker, virtual machines and AI/ML workloads.
+- Avoided declaring an unsupported overall performance winner.
+
+**Limitation identified:**
+
+The response relied on supplied review summaries without independently confirming that the tested hardware configurations matched the actual laptops offered by the sellers. Stronger verification of the configurations would improve factual reliability.
+
+![Task 13 AI Evaluation](screenshots/Task-13/Task-13-ai-evaluation.png)
+
+
