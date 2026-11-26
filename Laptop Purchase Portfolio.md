@@ -8,7 +8,7 @@ The project also evaluates the quality of AI-generated responses through human a
 
 ### Project Overview Screenshot
 
-![Task 1 Project Overview](screenshots/Task-1-project-overview.png)
+![Task 1 Project Overview](screenshots/Task-1/Task-1-project-overview.png)
 
 ## Project Objectives
 
@@ -26,11 +26,12 @@ Establish the buyer's programming and computing requirements before recommending
 
 ### Prompt and AI Response
 
-![Task 1 Prompt and AI Response](screenshots/Task-1-prompt-and-ai-response.png)
+![Task 1 Prompt and AI Response](screenshots/Task-1/Task-1-prompt-and-ai-response.png)
 
 ### Human Evaluation Feedback
 
-![Task 1 Human Evaluation Feedback](screenshots/Task-1-evaluation-feedback.png)
+![Task 1 Human Evaluation Feedback](screenshots/Task-1/Task-1-evaluation-feedback.png)
+
 
 
 The response correctly identified the eight areas that needed investigation, including programming languages, application development, IDE usage, virtualisation, software compilation, AI and machine learning, multitasking, and anticipated future workloads.
