@@ -624,3 +624,68 @@ It correctly identified the Dell Latitude 5300 as unsuitable because its RAM is 
 ![Task 8 Evaluation Feedback](screenshots/Task-8/Task-8-evaluation-feedback.png)
 
 
+
+# Task 9: Operating System Verification
+
+## 1. Prompt
+
+The AI was asked to evaluate the sellers' operating system claims, interpret the Windows verification results, distinguish Windows activation from ongoing Microsoft support, and identify which laptop meets the client's operating system requirements.
+
+![Task 9 Prompt](screenshots/Task-9/Task-9-prompt.png)
+
+## 2. AI-Generated Response
+
+### Requesting Operating System Verification
+
+Rather than relying on sellers' verbal confirmations that the laptops had Windows 11, the AI prepared instructions requesting screenshots of the Windows specifications.
+
+The sellers were asked to navigate to This PC, open Properties and provide a clear screenshot showing the Windows edition, version and OS build.
+
+The buyer preferred Windows 11 because standard Windows 10 support ended on 14 October 2025.
+
+![AI Response - Verification Instructions](screenshots/Task-9/Task-9-ai-response-1.png)
+
+### Operating System Verification Results
+
+The AI compared the information received from the two sellers.
+
+**HP EliteBook 830 G8 – Jumia**
+
+| Specification | Preferred Requirement | Verified Result |
+|---|---|---|
+| Edition | Windows 11 Pro or Home | Windows 11 Pro |
+| Version | Windows 11 24H2 or newer | Windows 11 24H2 |
+| OS Build | Currently supported build | 26100.7171 |
+| Activation | Windows activated | Activated |
+
+**Lenovo ThinkPad X13 Gen 2 – Kilimall**
+
+| Specification | Preferred Requirement | Verified Result |
+|---|---|---|
+| Edition | Windows 11 Pro or Home | Windows 10 Pro |
+| Version | Windows 11 24H2 or newer | Windows 10 22H2 |
+| OS Build | Currently supported build | 19045.6456 |
+| Activation | Windows activated | Activated |
+
+![AI Response - Windows Verification Results](screenshots/Task-9/Task-9-ai-response-2.png)
+
+### Comparative Analysis and Recommendation
+
+The AI concluded that the HP EliteBook 830 G8 was the stronger option for operating system compatibility because it already had Windows 11 Pro installed.
+
+The Lenovo ThinkPad X13 Gen 2 had activated Windows 10 Pro. However, activation does not mean that Microsoft continues to provide standard support and security updates for that Windows version.
+
+The AI therefore recommended the HP EliteBook because it met the Windows 11 requirement without requiring an operating system upgrade.
+
+![AI Response - Comparative Analysis and Recommendation](screenshots/Task-9/Task-9-ai-response-3.png)
+
+## 3. Human Evaluation and Feedback
+
+The AI correctly understood the operating system verification requirements and compared the Windows specifications of the HP EliteBook 830 G8 and Lenovo ThinkPad X13 Gen 2.
+
+It correctly distinguished Windows activation from ongoing Microsoft support and identified the HP as the stronger option for the preferred operating system requirement.
+
+The AI also retained both shortlisted laptops for further evaluation rather than eliminating the Lenovo solely because it had Windows 10. Other factors, including customer reviews and warranties, still needed consideration before making the final purchasing decision.
+
+![Task 9 Evaluation Feedback](screenshots/Task-9/Task-9-evaluation-feedback.png)
+
