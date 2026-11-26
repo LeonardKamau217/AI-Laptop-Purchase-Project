@@ -574,3 +574,53 @@ The evaluation also highlighted the need to distinguish processor performance fr
 ![Task 7 Evaluation Feedback](screenshots/Task-7/Task-7-evaluation-feedback.png)
 
 
+
+# Task 8: Insist on Upgradeable RAM
+
+## 1. Prompt
+
+The AI was asked to compare the installed RAM, RAM type, speed, available memory slots and upgradeability of the three shortlisted laptops, and identify the unsuitable option.
+
+![Task 8 Prompt](screenshots/Task-8/Task-8-prompt.png)
+
+## 2. AI-Generated Response
+
+### RAM Specifications Comparison
+
+The AI compared the three laptops against the client's requirement for at least 16GB of RAM and the ability to upgrade memory when needed.
+
+| Laptop | Dealer | Installed RAM | RAM Type and Speed | RAM Slots | Maximum RAM | Upgradeable |
+|---|---|---:|---|---:|---:|---|
+| HP EliteBook 830 G8 | Jumia | 16GB | DDR4-3200 | 2 SODIMM | Up to 64GB | Yes |
+| Dell Latitude 5300 | Jumia | 16GB | LPDDR4x-4266 | Soldered | 16GB | No |
+| Lenovo ThinkPad X13 Gen 2 | Kilimall | 16GB | DDR4-2666 | 2 SODIMM | Up to 32GB | Yes |
+
+![AI RAM Specifications Comparison](screenshots/Task-8/Task-8-ai-response-1.png)
+
+### Unsuitable Laptop Identified
+
+The AI eliminated the Dell Latitude 5300 because its 16GB LPDDR4x memory is soldered onto the motherboard and has no additional RAM slots. This means the memory cannot be upgraded.
+
+The HP EliteBook 830 G8 and Lenovo ThinkPad X13 Gen 2 were retained because their memory configurations were identified as upgradeable.
+
+### Images of the Retained Laptops
+
+**HP EliteBook 830 G8 – Jumia Kenya**
+
+![HP EliteBook 830 G8](screenshots/Task-8/Task-8-ai-response-2.png)
+
+**Lenovo ThinkPad X13 Gen 2 – Kilimall Kenya**
+
+![Lenovo ThinkPad X13 Gen 2](screenshots/Task-8/Task-8-ai-response-3.png)
+
+## 3. Human Evaluation and Feedback
+
+The AI correctly understood the client's requirement for at least 16GB of RAM and compared all three laptops based on their memory specifications and upgradeability.
+
+It correctly identified the Dell Latitude 5300 as unsuitable because its RAM is soldered and cannot be upgraded. It also retained the images of the two shortlisted laptops after eliminating the Dell.
+
+**Area for improvement:** The AI should have provided an update on the shortlisted laptops and ensured that the RAM specifications and upgrade limits were verified against the exact laptop configurations.
+
+![Task 8 Evaluation Feedback](screenshots/Task-8/Task-8-evaluation-feedback.png)
+
+
