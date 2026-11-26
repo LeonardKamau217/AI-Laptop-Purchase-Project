@@ -755,3 +755,85 @@ The evaluation also confirmed that the AI maintained the updated shortlist of on
 
 ![Task 10 Evaluation Feedback](screenshots/Task-10/Task-10-evaluation-feedback.png)
 
+
+
+
+# Task 11: Check the Model Number Against the Manufacturer's Website
+
+## 1. Prompt
+
+The AI was asked to evaluate the identification information provided for the two shortlisted laptops and explain how their product numbers and machine type model (MTM) numbers could be used to verify the exact laptop models and configurations through official manufacturer support websites.
+
+![Task 11 Prompt](screenshots/Task-11/Task-11-prompt.png)
+
+## 2. AI-Generated Response
+
+### Manufacturer Model and Identification Details
+
+The AI focused on the two remaining shortlisted laptops:
+
+1. HP EliteBook 830 G8 – Jumia Kenya
+2. Lenovo ThinkPad X13 Gen 2 – Kilimall Kenya
+
+It identified the following details from the information provided.
+
+**HP EliteBook 830 G8**
+
+- Manufacturer: HP
+- Model: EliteBook 830 G8
+- Product Number: 5G2X8EA
+- Serial Number: 5CD1234X9Z
+
+**Lenovo ThinkPad X13 Gen 2**
+
+- Manufacturer: Lenovo
+- Model: ThinkPad X13 Gen 2
+- Machine Type Model (MTM): 20W8-CTO1WW
+- Serial Number: PF-3A7K9M2
+
+![AI Response - Manufacturer Identification Details](screenshots/Task-11/Task-11-ai-response-1.png)
+
+### How to Verify the Identifiers
+
+The AI explained how to use the official manufacturer support websites to check each laptop.
+
+**HP verification**
+
+The HP product number and serial number can be entered into the official HP support website to retrieve product information associated with the device.
+
+Official website: https://support.hp.com/
+
+**Lenovo verification**
+
+The Lenovo MTM and serial number can be entered into Lenovo Support to identify the exact machine and retrieve its product specifications, support information and warranty details.
+
+Official website: https://support.lenovo.com/
+
+![AI Response - Manufacturer Verification Process](screenshots/Task-11/Task-11-ai-response-2.png)
+
+### Why Manufacturer Verification Matters
+
+The AI identified several reasons for checking the identifiers directly with the manufacturers:
+
+- **Authenticity verification:** Manufacturer records can help establish whether the identifiers correspond to a recognised product.
+- **Accurate identification:** Product numbers and MTM details help identify the exact model and configuration.
+- **Warranty verification:** Manufacturer support records can help establish warranty coverage and service eligibility.
+- **Technical support:** Correct identification helps technicians provide model-specific troubleshooting guidance.
+- **Parts compatibility:** Exact model identification helps determine compatible replacement batteries, keyboards, screens and chargers.
+- **Product history:** Available manufacturer records may provide registration, service or warranty information.
+
+![AI Response - Importance of Manufacturer Verification](screenshots/Task-11/Task-11-ai-response-3.png)
+
+## 3. Human Evaluation and Feedback
+
+The AI correctly understood the importance of verifying the exact laptop models using manufacturer identification numbers.
+
+It correctly distinguished the HP product number from the Lenovo MTM and explained how these identifiers could be used to retrieve manufacturer records.
+
+The response appropriately discussed authenticity, warranty coverage, technical support and parts compatibility.
+
+**Area for improvement:** The AI explained the verification process but did not provide actual manufacturer lookup results. The identifiers still needed to be checked directly on the official support websites before drawing conclusions about authenticity, configuration and warranty status.
+
+![Task 11 Evaluation Feedback](screenshots/Task-11/Task-11-evaluation-feedback.png)
+
+
