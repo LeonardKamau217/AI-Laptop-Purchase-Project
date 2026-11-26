@@ -349,11 +349,121 @@ The evaluation showed that the AI provided useful guidance for identifying onlin
 
 However, the recommendations still required further verification, particularly regarding seller authorisation, product authenticity and warranty terms.
 
-## 5. Skills Demonstrated
 
-- AI response evaluation
-- Relevance and accuracy assessment
-- Critical thinking
-- Risk identification
-- E-commerce research
-- Human evaluation and quality assurance
+
+# Task 5: Find Laptop Options That Suit the Client's Budget
+
+## Task Objective
+
+Identify six laptop options suitable for the buyer's programming, AI-training and machine-learning requirements, using Jumia Kenya and Kilimall Kenya. Each option must fall within the KSh 60,000 budget.
+
+## 1. Prompt
+
+![Task 5 Prompt](screenshots/Task-5/Task-5-prompt.png)
+
+## 2. AI-Generated Response
+
+The AI identified six laptop options, selecting three from Jumia Kenya and three from Kilimall Kenya. All six advertised prices were within the buyer's KSh 60,000 budget.
+
+### Jumia Kenya
+
+**1. HP EliteBook 830 G8**
+
+- Processor: 11th Generation Intel Core i7
+- RAM: 16GB
+- Storage: 512GB SSD
+- Display: 13.3-inch FHD touchscreen
+- Advertised price: KSh 50,000
+
+**2. Lenovo ThinkPad T490s**
+
+- Processor: 8th Generation Intel Core i7
+- RAM: 32GB
+- Storage: 512GB SSD
+- Display: 14-inch FHD touchscreen
+- Advertised price: KSh 46,500
+
+**3. Dell Latitude 5300**
+
+- Processor: 8th Generation Intel Core i5
+- RAM: 16GB
+- Storage: 256GB
+- Touchscreen display
+- Advertised price: KSh 32,999
+
+![Task 5 AI Response 1](screenshots/Task-5/Task-5-ai-response-1.png)
+
+![Task 5 AI Response 2](screenshots/Task-5/Task-5-ai-response-2.png)
+
+### Kilimall Kenya
+
+**4. HP EliteBook 840 G7**
+
+- Processor: 10th Generation Intel Core i7-10310U
+- RAM: 16GB
+- Storage: 512GB SSD
+- Display: 14-inch FHD touchscreen
+- Advertised price: KSh 51,299
+
+**5. Lenovo ThinkPad X13**
+
+- Processor: 10th Generation Intel Core i7
+- RAM: 16GB
+- Storage: 512GB SSD
+- Display: 13.3-inch FHD touchscreen
+- Advertised price: KSh 48,800
+
+**6. Dell Latitude 5410**
+
+- Processor: Intel Core i5-10310U
+- RAM: 16GB
+- Storage: 512GB SSD
+- Display: 14-inch Full HD
+- Advertised price: KSh 48,127
+
+![Task 5 AI Response 3](screenshots/Task-5/Task-5-ai-response-3.png)
+
+![Task 5 AI Response 4](screenshots/Task-5/Task-5-ai-response-4.png)
+
+## 3. Proposed Laptop Options
+
+The AI organized the six options by marketplace, making it easier to compare the available models.
+
+![Proposed Laptop Options](screenshots/Task-5/Task-5-proposed-laptop-options.png)
+
+The response also explained that comparing several options helps the buyer assess processor performance, memory, storage, price and suitability for programming workloads.
+
+It advised independently verifying seller-advertised specifications, warranty coverage, seller reliability, physical condition and upgradeability before making a purchase.
+
+## 4. Human Evaluation and Feedback
+
+The response was evaluated using four criteria:
+
+- **Completeness:** Complete
+- **Relevance:** Relevant
+- **Accuracy:** Accurate
+- **Helpfulness:** Helpful
+
+![Task 5 Evaluation Criteria](screenshots/Task-5/Task-5-evaluation-criteria.png)
+
+### Evaluation Findings
+
+The AI successfully identified six laptop options from Jumia Kenya and Kilimall Kenya, with all advertised prices falling within the buyer's KSh 60,000 budget.
+
+It provided the model names, advertised hardware specifications, prices and direct product links. This made it easier to compare the available options and investigate their suitability for programming workloads.
+
+The response also demonstrated good evaluation awareness by distinguishing seller-advertised specifications from independently verified information.
+
+**Areas for improvement:**
+
+The AI could provide a more structured comparison of processor generations, core counts, RAM upgradeability and storage capacity. It should also verify whether the advertised configurations are accurate and whether the products are currently available before recommending them.
+
+![Task 5 Human Evaluation Feedback](screenshots/Task-5/Task-5-evaluation-feedback.png)
+
+## 5. Task Outcome
+
+The task successfully identified six laptop options from two online marketplaces, all within the buyer's budget.
+
+The evaluation demonstrated that AI can assist with product research and organizing purchasing options. However, advertised specifications, current availability, seller credibility and warranty conditions still require independent verification before a final purchasing decision.
+
+
