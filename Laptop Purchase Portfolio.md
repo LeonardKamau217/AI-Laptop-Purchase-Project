@@ -511,17 +511,9 @@ The AI identified the following laptops and their respective marketplaces.
 
 ![Dell Latitude 5410 - Kilimall Kenya](screenshots/Task-6/Task-6-dell-kilimall.png)
 
-## 3. AI's Final Recommendation
 
-After considering the research and evaluation, the AI recommended the **HP EliteBook 830 G8** as the preferred laptop.
 
-The recommendation considered its processing capability, reported SSD performance, RAM upgrade potential, supplied battery-health results, Windows 11 installation and favourable seller warranty terms.
-
-The AI also advised confirming the exact processor, RAM configuration and upgrade compatibility, SSD, Windows 11 update status, battery condition and written warranty before making payment.
-
-![AI Final Recommendation](screenshots/Task-6/Task-6-ai-recommendation-5.png)
-
-## 4. Human Evaluation and Feedback
+## 3. Human Evaluation and Feedback
 
 The AI correctly identified all six shortlisted laptops, their manufacturers, exact models and respective marketplaces. It also incorporated the product images and explained how they support visual comparisons.
 
