@@ -467,3 +467,69 @@ The task successfully identified six laptop options from two online marketplaces
 The evaluation demonstrated that AI can assist with product research and organizing purchasing options. However, advertised specifications, current availability, seller credibility and warranty conditions still require independent verification before a final purchasing decision.
 
 
+# Task 6: Keep Images of the Proposed Laptop Options
+
+## Task Objective
+
+Organize and display images of the six proposed laptop options from Jumia Kenya and Kilimall Kenya. Identify each laptop by its manufacturer, exact model and marketplace. Explain how product images support visual comparison before making a final purchasing decision.
+
+## 1. Prompt and AI Response
+
+The AI was instructed to organize the six proposed laptop options and explain how their images could help compare the shortlisted products.
+
+![Task 6 Prompt and AI Response](screenshots/Task-6/Task-6-prompt-and-ai-reponse.png)
+
+## 2. Images of the Six Proposed Laptop Options
+
+The AI identified the following laptops and their respective marketplaces.
+
+### Jumia Kenya
+
+**HP EliteBook 830 G8**
+
+![HP EliteBook 830 G8 - Jumia Kenya](screenshots/Task-6/Task-6-hp-jumia.png)
+
+**Lenovo ThinkPad T490s**
+
+![Lenovo ThinkPad T490s - Jumia Kenya](screenshots/Task-6/Task-6-lenovo-jumia.png)
+
+**Dell Latitude 5300**
+
+![Dell Latitude 5300 - Jumia Kenya](screenshots/Task-6/Task-6-dell-jumia.png)
+
+### Kilimall Kenya
+
+**HP EliteBook 840 G7**
+
+![HP EliteBook 840 G7 - Kilimall Kenya](screenshots/Task-6/Task-6-hp-kilimall.png)
+
+**Lenovo ThinkPad X13**
+
+![Lenovo ThinkPad X13 - Kilimall Kenya](screenshots/Task-6/Task-6-lenovo-kilimall.png)
+
+**Dell Latitude 5410**
+
+![Dell Latitude 5410 - Kilimall Kenya](screenshots/Task-6/Task-6-dell-kilimall.png)
+
+## 3. AI's Final Recommendation
+
+After considering the research and evaluation, the AI recommended the **HP EliteBook 830 G8** as the preferred laptop.
+
+The recommendation considered its processing capability, reported SSD performance, RAM upgrade potential, supplied battery-health results, Windows 11 installation and favourable seller warranty terms.
+
+The AI also advised confirming the exact processor, RAM configuration and upgrade compatibility, SSD, Windows 11 update status, battery condition and written warranty before making payment.
+
+![AI Final Recommendation](screenshots/Task-6/Task-6-ai-recommendation-5.png)
+
+## 4. Human Evaluation and Feedback
+
+The AI correctly identified all six shortlisted laptops, their manufacturers, exact models and respective marketplaces. It also incorporated the product images and explained how they support visual comparisons.
+
+The response correctly acknowledged that photographs cannot independently verify internal hardware specifications, battery health or the actual condition of the laptop being sold.
+
+**Area for improvement:** The AI should provide a more detailed visual comparison of the six laptops and identify any differences between the displayed images and the sellers' advertised product descriptions.
+
+![Task 6 Evaluation Feedback](screenshots/Task-6/Task-6-evaluation-feedback.png)
+
+
+
