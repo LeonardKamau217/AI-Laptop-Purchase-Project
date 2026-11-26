@@ -531,7 +531,7 @@ The response correctly acknowledged that photographs cannot independently verify
 
 The AI was asked to assess whether the Intel Core i7-1165G7 processor could support the buyer's programming, software development and machine-learning requirements.
 
-![Task 7 Prompt](Task-7/Task-7-prompt.png)
+![Task 7 Prompt](screenshots/Task-7/Task-7-prompt.png)
 
 ## 2. AI-Generated Response
 
@@ -545,7 +545,7 @@ The AI identified the following specifications for the Intel Core i7-1165G7:
 - Maximum turbo frequency: 4.7 GHz
 - Cache: 12 MB
 
-![AI Response - Processor Specifications](Task-7/Task-7-ai-response-1.png)
+![AI Response - Processor Specifications](screenshots/Task-7/Task-7-ai-response-1.png)
 
 ### Processor Performance Analysis
 
@@ -553,7 +553,7 @@ The AI explained that the processor can support everyday programming activities,
 
 However, it highlighted limitations when handling demanding AI and machine-learning workloads, including large datasets, complex models and intensive local model training.
 
-![AI Response - Processor Performance Analysis](Task-7/Task-7ai-response-2.png)
+![AI Response - Processor Performance Analysis](screenshots/Task-7/Task-7ai-response-2.png)
 
 ### Final Assessment
 
@@ -561,7 +561,7 @@ The AI concluded that the processor is suitable for general programming, softwar
 
 For intensive local AI model training, the AI recommended considering adequate RAM, fast SSD storage and suitable graphics processing alongside the CPU.
 
-![AI Final Assessment](Task-7/Task-7-ai-response-3.png)
+![AI Final Assessment](screenshots/Task-7/Task-7-ai-response-3.png)
 
 ## 3. Human Evaluation and Feedback
 
@@ -571,8 +571,14 @@ However, the evaluation identified an important weakness: the AI's assessment di
 
 The evaluation also highlighted the need to distinguish processor performance from the overall suitability of each laptop.
 
-![Task 7 Evaluation Feedback](Task-7/Task-7-evaluation-feedback.png)
+![Task 7 Evaluation Feedback](screenshots/Task-7/Task-7-evaluation-feedback.png)
 
+## 4. Skills Demonstrated
 
-
+- Processor specification analysis
+- AI response evaluation
+- Technical reasoning and workload assessment
+- Accuracy and relevance verification
+- Identification of gaps in AI-generated recommendations
+- Human feedback and quality assurance
 
