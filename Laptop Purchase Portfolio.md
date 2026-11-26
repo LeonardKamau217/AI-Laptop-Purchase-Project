@@ -945,3 +945,123 @@ The response relied on supplied review summaries without independently confirmin
 ![Task 13 AI Evaluation](screenshots/Task-13/Task-13-ai-evaluation.png)
 
 
+
+# Task 14: Comparative Review Analysis
+
+## 1. Task Objective
+
+Evaluate independent reviews and comparative findings for the **HP EliteBook 830 G8** and **Lenovo ThinkPad X13 Gen 2**.
+
+The assessment focuses on processor performance, programming suitability, file-transfer performance, cooling, thermal behaviour and sustained workloads.
+
+The objective is to determine what the available review evidence reveals about each laptop's suitability for programming, software development, multitasking, large datasets, Docker containers and virtual machines, while identifying limitations in the benchmark comparisons.
+
+## 2. Prompt
+
+![Task 14 Prompt](screenshots/Task-14/Task-14-prompt.png)
+
+## 3. AI-Generated Comparative Analysis
+
+### 3.1 Processor and Programming Performance
+
+The AI compared the processor specifications supplied for both laptops. The configurations were reported as featuring Intel Core i7-1165G7 processors, with four cores and eight threads.
+
+Based on these specifications, both laptops appeared suitable for general programming, integrated development environments, compiling code and everyday multitasking.
+
+However, the AI correctly noted that processor specifications alone do not establish which laptop performs better. Actual performance also depends on cooling, power limits, memory configuration and the condition of each device.
+
+![Processor and Programming Performance](screenshots/Task-14/Task-14-ai-response-1.png)
+
+### 3.2 File Transfer and Storage Performance
+
+The AI examined two independent benchmark results:
+
+**HP EliteBook 830 G8**
+
+Notebookcheck reported approximately:
+- Sequential SSD read speed: 2,456 MB/s
+- Sequential SSD write speed: 2,032 MB/s
+
+**Lenovo ThinkPad X13 Gen 2**
+
+Laptop Mag reported that its tested configuration transferred 25GB of multimedia files in approximately 1 minute and 26 seconds, achieving around 310.5 MB/s.
+
+The AI recognised that these results came from different testing methods. Sequential SSD benchmarks and real-world file-copy tests cannot be directly compared to declare one laptop faster.
+
+![File Transfer and Storage Performance](screenshots/Task-14/Task-14-ai-response-2.png)
+
+### 3.3 Heat Management and Thermal Performance
+
+The AI examined the thermal limitations identified in the independent reviews.
+
+For the HP, the supplied review indicated that processor power limits and cooling could influence performance during prolonged demanding workloads.
+
+For the Lenovo, the review reported increased warmth and more noticeable fan noise under sustained CPU and GPU workloads.
+
+The AI concluded that both laptops have thermal limitations that should be considered when running prolonged compilations, virtual machines, containers and data-processing applications.
+
+![Heat Management and Thermal Performance](screenshots/Task-14/Task-14-ai-response-3.png)
+
+### 3.4 Sustained Workloads and Data Handling
+
+The AI considered how both laptops could handle:
+
+- Programming and software compilation
+- Multitasking and moderate data processing
+- Large datasets and file transfers
+- Docker containers and virtual machines
+
+It explained that sustained performance depends on processor power limits, cooling capacity, available RAM and SSD performance.
+
+The buyer should also consider memory capacity carefully because multiple development tools, containers and virtual machines can consume substantial RAM.
+
+![Sustained Workloads and Data Handling](screenshots/Task-14/Task-14-ai-response-4.png)
+
+### 3.5 Comparative Summary
+
+The AI summarised the available evidence as follows:
+
+| Evaluation Area | Comparative Finding |
+|---|---|
+| Processor | Both were reported with Intel Core i7-1165G7 specifications, subject to verification |
+| Programming | Both appear suitable for general programming and ordinary development tasks |
+| File transfer | HP had encouraging sequential SSD results; Lenovo had a real-world file-copy benchmark |
+| Thermal performance | Both have potential cooling and power limitations |
+| Sustained workloads | Neither can be declared the clear winner from the supplied evidence |
+
+The AI avoided treating different benchmark methods as directly comparable and did not make an unsupported claim that one laptop was universally faster.
+
+![Comparative Summary](screenshots/Task-14/Task-14-ai-response-5.png)
+
+### 3.6 Final Recommendation
+
+The AI considered the HP EliteBook 830 G8 a promising option for data-intensive file operations because of its reported sequential SSD performance.
+
+However, it did not declare the HP the overall performance winner. The Lenovo remained a competitive option because of its real-world file-transfer evidence and programming suitability.
+
+Before making a final purchase decision, the buyer should verify the actual processor, RAM, SSD and cooling condition of the specific units being offered. The Lenovo processor specification also requires confirmation against manufacturer records.
+
+![Final Recommendation](screenshots/Task-14/Task-14-ai-response-6.png)
+
+## 4. Human Evaluation of the AI Response
+
+The human evaluation found that the AI correctly understood the task and provided a relevant comparison of the two shortlisted laptops.
+
+**Strengths identified:**
+
+- Correctly interpreted the supplied processor specifications.
+- Distinguished sequential SSD benchmarks from real-world file-transfer tests.
+- Recognised that the different testing methods do not support a direct performance comparison.
+- Discussed thermal limitations and sustained workload performance.
+- Considered the buyer's programming and development requirements.
+- Avoided declaring an unsupported overall winner.
+
+**Limitation identified:**
+
+The Lenovo processor specification still needed confirmation against manufacturer records. Verifying the exact hardware configuration of each seller's unit would strengthen the comparison.
+
+The response was evaluated as accurate, relevant and helpful, with appropriate caution about the limitations of the available evidence.
+
+![Task 14 Human Evaluation Feedback](screenshots/Task-14/Task-14-evaluation-feedback.png)
+
+
