@@ -267,6 +267,8 @@ These three manufacturers provide a shortlist of brands to consider when researc
 - Identification of relevant product characteristics
 - Evidence-based evaluation
 
+
+
 # Task 4: Choose a Reputable Online Shop
 
 ## Task Objective
@@ -275,25 +277,25 @@ Evaluate AI recommendations for reputable online shops in Kenya where the buyer 
 
 ## 1. Prompt
 
-![Task 4 Prompt](Task-4-prompt.png)
+![Task 4 Prompt](Task-4/Task-4-prompt.png)
 
 ## 2. AI-Generated Response
 
-The AI recommended two online marketplaces:
+The AI recommended two online marketplaces: Jumia Kenya and Kilimall Kenya.
 
 ### Jumia Kenya
 
 The AI identified Jumia as an option because it offers:
 
 - A wide selection of laptops from different sellers.
-- Customer reviews and ratings that can help buyers assess products.
+- Customer reviews and ratings.
 - Different payment and delivery options.
 - Official brand stores for some products.
 
 **Potential risks:**
 - Not every seller is manufacturer-authorised.
-- Warranty coverage and return conditions may vary between sellers.
-- Buyers need to verify the seller and product authenticity before purchasing.
+- Warranty coverage and return conditions may vary.
+- Buyers need to verify seller credibility and product authenticity.
 
 ### Kilimall Kenya
 
@@ -306,7 +308,7 @@ The AI identified Kilimall as another option because it offers:
 **Potential risks:**
 - Products may be supplied by local or overseas sellers.
 - Warranty and return conditions may vary.
-- Some product listings may not provide enough detail about the exact hardware configuration.
+- Some listings may lack sufficient hardware configuration details.
 
 ### AI's Purchasing Advice
 
@@ -314,15 +316,15 @@ The AI advised checking the following before placing an order:
 
 - Seller credibility and reputation.
 - Product authenticity.
-- Manufacturer warranty and warranty coverage.
+- Manufacturer warranty and coverage.
 - Return and refund conditions.
 - Exact laptop specifications, including processor, RAM and storage.
 
 It also emphasized that buyers should not make purchasing decisions based on price alone.
 
-![Task 4 AI Response 1](Task-4-ai-response-1.png)
+![Task 4 AI Response 1](Task-4/Task-4-ai-response-1.png)
 
-![Task 4 AI Response 2](Task-4-ai-response-2.png)
+![Task 4 AI Response 2](Task-4/Task-4-ai-response-2.png)
 
 ## 3. Human Evaluation and Feedback
 
@@ -339,7 +341,7 @@ The AI response was evaluated for relevance, accuracy and helpfulness.
 
 The response could be more specific by identifying manufacturer-authorised dealers or official brand stores and explaining how buyers can verify them.
 
-![Task 4 Human Evaluation Feedback](Task-4-evaluation-feedback.png)
+![Task 4 Human Evaluation Feedback](Task-4/Task-4-evaluation-feedback.png)
 
 ## 4. Task Outcome
 
