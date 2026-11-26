@@ -266,3 +266,92 @@ These three manufacturers provide a shortlist of brands to consider when researc
 - Critical assessment of AI recommendations
 - Identification of relevant product characteristics
 - Evidence-based evaluation
+
+# Task 4: Choose a Reputable Online Shop
+
+## Task Objective
+
+Evaluate AI recommendations for reputable online shops in Kenya where the buyer can purchase a laptop that meets their programming and AI/ML requirements.
+
+## 1. Prompt
+
+![Task 4 Prompt](Task-4/Task-4-prompt.png)
+
+## 2. AI-Generated Response
+
+The AI recommended two online marketplaces:
+
+### Jumia Kenya
+
+The AI identified Jumia as an option because it offers:
+
+- A wide selection of laptops from different sellers.
+- Customer reviews and ratings that can help buyers assess products.
+- Different payment and delivery options.
+- Official brand stores for some products.
+
+**Potential risks:**
+- Not every seller is manufacturer-authorised.
+- Warranty coverage and return conditions may vary between sellers.
+- Buyers need to verify the seller and product authenticity before purchasing.
+
+### Kilimall Kenya
+
+The AI identified Kilimall as another option because it offers:
+
+- A variety of laptop models.
+- Competitive prices.
+- Customer reviews and order-tracking features.
+
+**Potential risks:**
+- Products may be supplied by local or overseas sellers.
+- Warranty and return conditions may vary.
+- Some product listings may not provide enough detail about the exact hardware configuration.
+
+### AI's Purchasing Advice
+
+The AI advised checking the following before placing an order:
+
+- Seller credibility and reputation.
+- Product authenticity.
+- Manufacturer warranty and warranty coverage.
+- Return and refund conditions.
+- Exact laptop specifications, including processor, RAM and storage.
+
+It also emphasized that buyers should not make purchasing decisions based on price alone.
+
+![Task 4 AI Response 1](Task-4/Task-4-ai-response-1.png)
+
+![Task 4 AI Response 2](Task-4/Task-4-ai-response-2.png)
+
+## 3. Human Evaluation and Feedback
+
+The AI response was evaluated for relevance, accuracy and helpfulness.
+
+**Evaluation findings:**
+
+- The response was relevant to the buyer's request.
+- It provided a useful comparison of Jumia Kenya and Kilimall Kenya.
+- It highlighted important purchasing risks, including seller credibility, warranty coverage and product authenticity.
+- It provided practical checks to perform before buying a laptop.
+
+**Areas for improvement:**
+
+The response could be more specific by identifying manufacturer-authorised dealers or official brand stores and explaining how buyers can verify them.
+
+![Task 4 Human Evaluation Feedback](Task-4/Task-4-evaluation-feedback.png)
+
+## 4. Task Outcome
+
+The evaluation showed that the AI provided useful guidance for identifying online marketplaces and understanding the risks involved in purchasing laptops online.
+
+However, the recommendations still required further verification, particularly regarding seller authorisation, product authenticity and warranty terms.
+
+## 5. Skills Demonstrated
+
+- AI response evaluation
+- Relevance and accuracy assessment
+- Critical thinking
+- Risk identification
+- E-commerce research
+- Human evaluation and quality assurance
