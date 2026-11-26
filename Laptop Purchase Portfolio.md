@@ -1133,3 +1133,126 @@ An important limitation is that the warranty information came from seller-provid
 
 ![Task 15 Evaluation Feedback](screenshots/Task-15/Task-15-evaluation-feedback.png)
 
+
+
+# Task 16: Professional Recommendation
+
+## 1. Task Prompt
+
+Based on the research and evaluation completed, the AI was asked to determine whether the HP EliteBook 830 G8 should be selected as the final laptop for the buyer's programming requirements and whether the recommendation was supported by the available evidence.
+
+![Task 16 Prompt](screenshots/Task-16/Task-16-prompt.png)
+
+## 2. AI-Generated Professional Recommendation
+
+The AI recommended the **HP EliteBook 830 G8 from Jumia Kenya** after considering its processing performance, storage, RAM upgradeability, operating system, battery condition, professional reviews and seller warranty.
+
+![AI Professional Recommendation](screenshots/Task-16/Task-16-ai-response-1.png)
+
+### Key Evaluation Findings
+
+**Processing Performance**
+
+The laptop has an 11th-generation Intel Core i7 processor, considered suitable for programming activities such as running development environments, compiling code and managing everyday development workloads.
+
+**Storage Performance**
+
+The professional review supplied for the HP configuration reported sequential SSD speeds of approximately 2,456 MB/s read and 2,032 MB/s write. The AI noted that the actual SSD performance of the seller's unit still needed confirmation.
+
+![Storage Performance and RAM Upgradeability](screenshots/Task-16/Task-16-ai-recommendation-2.png)
+
+**RAM Upgradeability**
+
+The HP EliteBook 830 G8 was identified as supporting up to 64GB of RAM, subject to the exact configuration and compatible memory modules. The AI considered this useful for multitasking, programming and running virtual machines. The actual memory configuration needed verification.
+
+**Operating System**
+
+The supplied system information identified the laptop as running Windows 11 Pro, version 24H2. The AI cautioned that this version reached its end of support on 13 October 2026 and recommended updating to a currently supported Windows 11 release.
+
+**Battery Condition**
+
+The supplied battery report showed:
+
+- Design capacity: 53,010 mWh
+- Full-charge capacity: 46,649 mWh
+- Battery health: Approximately 88%
+- Battery wear: Approximately 12%
+
+The AI considered this a reasonably good battery condition based on the report, while recommending verification against the actual device.
+
+![Operating System and Battery Assessment](screenshots/Task-16/Task-16-ai-recommendation-3.png)
+
+**Warranty and Seller Protection**
+
+The Jumia seller stated that the laptop comes with:
+
+- Six-month warranty covering major hardware components.
+- One-month battery coverage.
+- Seven-day return period for defective products, subject to inspection.
+
+The AI advised obtaining written confirmation of these terms before payment.
+
+**Thermal Performance**
+
+The AI recognised potential processor power and cooling limitations during prolonged demanding workloads. It recommended inspecting the laptop and checking temperatures and fan behaviour under load where possible.
+
+![Warranty and Thermal Performance](screenshots/Task-16/Task-16-ai-recommendation-4.png)
+
+## 3. Final Decision
+
+The AI selected the **HP EliteBook 830 G8 – Jumia Kenya** as the final recommendation.
+
+The decision was based on its processing capability, reported SSD performance, RAM upgrade potential, supplied battery-health results, Windows 11 installation and favourable seller warranty terms.
+
+Before payment, the buyer was advised to confirm the exact processor, RAM configuration and upgrade compatibility, SSD, supported Windows 11 updates, battery condition and written seller warranty.
+
+![AI Final Decision](screenshots/Task-16/Task-6-ai-recommendation-5.png)
+
+## 4. Recommended Laptop
+
+**HP EliteBook 830 G8 – Jumia Kenya**
+
+![Recommended HP EliteBook 830 G8](screenshots/Task-16/Task-16-ai-recommendation-6.png)
+
+## 5. Human Evaluation Criteria
+
+The final recommendation was evaluated against four criteria:
+
+- **Task Understanding:** Complete
+- **Relevance:** Relevant
+- **Accuracy:** Accurate
+- **Helpfulness:** Helpful
+
+The evaluation considered whether the AI understood the buyer's programming requirements, used relevant specifications and supporting evidence, and provided a useful final purchase recommendation.
+
+![Evaluation Criteria](screenshots/Task-16/Task-16-evaluation-criteria-1.png)
+
+![Helpfulness Evaluation](screenshots/Task-16/Task-16-evaluation-criteria-2.png)
+
+## 6. Human Evaluation and Feedback
+
+The AI correctly understood the task as a final professional recommendation and selected the HP EliteBook 830 G8 for the buyer's programming requirements.
+
+The response brought together evidence from the earlier tasks, including processing capability, SSD performance, RAM upgradeability, battery health, operating system, professional reviews and warranty coverage.
+
+The human evaluation identified several limitations:
+
+- The SSD benchmark and professional review findings related to reviewed configurations and did not independently establish the performance of the exact seller's unit.
+- RAM capacity and upgradeability required confirmation on the actual laptop.
+- Battery condition also needed verification against the physical device.
+- The AI should have stated the final laptop price, which had dropped from KSh 50,000 to **KSh 49,000** during the Black Friday offer.
+
+Overall, the recommendation was considered reasonable and supported by the accumulated evidence, subject to the final checks before purchase.
+
+![Human Evaluation Feedback](screenshots/Task-16/Task-16-evaluation-feedback.png)
+
+## 7. Skills Demonstrated
+
+- AI response evaluation and quality assurance
+- Evidence-based decision-making
+- Comparing technical specifications
+- Analysing professional reviews and benchmark results
+- Evaluating operating system and battery information
+- Assessing warranty and seller protection
+- Identifying unsupported claims and evidence limitations
+- Providing a justified professional recommendation
